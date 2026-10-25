@@ -1,0 +1,10 @@
+{
+  "description": "Explore a builder internship at Masters’ Union, learn about hands-on projects and team culture, and find application requirements and contact details.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
